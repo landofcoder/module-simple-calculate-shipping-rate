@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../Magento/Store/etc/config.xsd">
+    <default>
+        <lof_estimateshippingrate>
+            <general>
+                <enable>1</enable>
+            </general>
+        </lof_estimateshippingrate>
+    </default>
+</config>
