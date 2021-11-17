@@ -12,3 +12,7 @@ php bin/magento c:c
 ```
 ## Features
 * Display Calulate shipping rate form on product page to esitmate shipping fee
+
+## Better Calculate Shipping Rate
+
+[Magento 2 Module Lof ShippingCalculator](https://github.com/landofcoder/module-shipping-cost-calculator)
